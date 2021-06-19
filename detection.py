@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np 
 import matplotlib.pyplot as plt 
 import seaborn as sns
-
+#loading the dataset
 from sklearn.datasets import load_breast_cancer
 cancer_dataset = load_breast_cancer()
 
